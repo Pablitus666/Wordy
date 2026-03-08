@@ -56,7 +56,7 @@ La aplicación está orientada a:
 
 ---
 
-![Wordy Preview](https://raw.githubusercontent.com/Pablitus666/Wordy/main/images2/Preview.png)
+![Wordy Preview](https://raw.githubusercontent.com/Pablitus666/Wordy/main/images2/preview.png)
 
 ---
 
