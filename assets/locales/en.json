@@ -1,0 +1,20 @@
+{
+    "app.title": "Word Formatter Pro",
+    "label.document": "Word Document (.docx):",
+    "label.words": "Words to bold/underline (comma separated):",
+    "button.browse": "BROWSE",
+    "button.process": "PROCESS",
+    "button.exit": "EXIT",
+    "button.close": "CLOSE",
+    "button.ok": "OK",
+    "title.info": "Information",
+    "title.error": "Error",
+    "title.success": "Success",
+    "title.warning": "Warning",
+    "error.path_words": "Please provide both file and words.",
+    "error.word_open": "File is open in Word. Please close it.",
+    "error.docx_only": "Please drop only .docx files.",
+    "error.unexpected": "An unexpected error occurred:\n{error}",
+    "success.processed": "Document formatted successfully.\nSaved as: {filename}",
+    "info.developed_by": "Developed by:\nPablo Téllez A.\n\nTarija - 2026"
+}

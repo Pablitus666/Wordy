@@ -1,0 +1,21 @@
+{
+    "app.title": "Word Formatter Pro",
+    "label.document": "Documento Word (.docx):",
+    "label.words": "Palabras a resaltar (separadas por comas):",
+    "button.browse": "EXAMINAR",
+    "button.process": "PROCESAR",
+    "button.exit": "SALIR",
+    "button.close": "CERRAR",
+    "button.ok": "OK",
+    "button.open": "ABRIR",
+    "title.info": "Información",
+    "title.error": "Error",
+    "title.success": "Éxito",
+    "title.warning": "Aviso",
+    "error.path_words": "Indique el archivo y las palabras.",
+    "error.word_open": "El archivo está abierto en Word. Ciérrelo.",
+    "error.docx_only": "Por favor, arrastra solo archivos .docx",
+    "error.unexpected": "Ocurrió un error inesperado:\n{error}",
+    "success.processed": "Documento formateado con éxito.\nGuardado como: {filename}",
+    "info.developed_by": "Desarrollado por:\nPablo Téllez A.\n\nTarija - 2026"
+}

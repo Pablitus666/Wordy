@@ -1,0 +1,29 @@
+
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(2, 0, 0, 0),
+    prodvers=(2, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'Walter Pablo Tellez Ayala'),
+        StringStruct(u'FileDescription', u'Wordy Professional Document Tool'),
+        StringStruct(u'FileVersion', u'2.0.0.0'),
+        StringStruct(u'InternalName', u'Wordy_v2'),
+        StringStruct(u'LegalCopyright', u'Copyright (c) 2026 Walter Pablo Tellez Ayala'),
+        StringStruct(u'OriginalFilename', u'Wordy_v2.exe'),
+        StringStruct(u'ProductName', u'Wordy Professional'),
+        StringStruct(u'ProductVersion', u'2.0.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
