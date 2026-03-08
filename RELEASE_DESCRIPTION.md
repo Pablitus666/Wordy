@@ -1,4 +1,4 @@
-# 📦 Wordy v2.0 — Lanzamiento Profesional (Edición Élite)
+# 📦 Wordy v2.0
 
 ![Version](https://img.shields.io/badge/Version-2.0.0-blue)
 ![Release](https://img.shields.io/badge/Release-Stable-green)
@@ -28,17 +28,17 @@ Esta actualización marca un hito en ingeniería y usabilidad:
 
 Selecciona el formato que mejor se adapte a tu flujo de trabajo en la sección **Assets** al final de esta página:
 
-### 1️⃣ Wordy Portable (`Wordy_Portable_Final.exe`) 🏃
+### 1️⃣ Wordy Portable (`Wordy.Portable.exe`) 🏃
 *   **Instalación:** Ninguna. Descarga y ejecuta directamente.
 *   **Ventaja:** Ideal para rapidez y movilidad. No deja rastro en el sistema.
 
-### 2️⃣ Wordy en Carpeta (`Wordy_Final_Folder.zip`) 🖥️
-*   **Instalación:** Descomprimir y ejecutar `Wordy_Final.exe`.
+### 2️⃣ Wordy en Carpeta (`Wordy.zip`) 🖥️
+*   **Instalación:** Descomprimir y ejecutar `Wordy.exe`.
 *   **Ventaja:** Mayor velocidad de carga al no requerir descompresión en memoria. Recomendado para uso diario.
 
 ---
 
-## ✨ Características de Élite
+## ✨ Características
 
 *   🔍 **Precisión Quirúrgica:** Formateo seguro en tablas, encabezados y pies de página.
 *   🌍 **Multilingüe:** Detección automática de 9 idiomas (ES, EN, FR, DE, IT, PT, RU, JA, ZH).
