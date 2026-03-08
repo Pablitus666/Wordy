@@ -72,7 +72,7 @@ logs/
 # =========================
 
 *.psd
-images2/
+# images2/ (Habilitado para recursos del README)
 
 # =========================
 # Sistema / IDE
